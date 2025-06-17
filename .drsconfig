@@ -1,0 +1,11 @@
+{
+  "queryServer": {
+    "baseURL": "https://caliper-training.ohsu.edu"
+  },
+  "writeServer": {
+    "baseURL": "https://caliper-training.ohsu.edu"
+  },
+  "gen3Profile": "local",
+  "gen3Project": "cbds-qw",
+  "gen3Bucket": "cbds"
+}
