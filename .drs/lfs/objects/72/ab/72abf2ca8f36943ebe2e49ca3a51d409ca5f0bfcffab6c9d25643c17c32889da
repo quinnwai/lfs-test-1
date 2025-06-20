@@ -1,0 +1,1 @@
+{"did":"ab6e71a9-63cd-5f9d-add5-8be13745cb89","file_name":"test.bam","urls":["s3://cbds/ab6e71a9-63cd-5f9d-add5-8be13745cb89/72abf2ca8f36943ebe2e49ca3a51d409ca5f0bfcffab6c9d25643c17c32889da"],"size":209715200,"authz":["/programs/cbds/projects/qw"],"hashes":{"sha256":"72abf2ca8f36943ebe2e49ca3a51d409ca5f0bfcffab6c9d25643c17c32889da"}}
