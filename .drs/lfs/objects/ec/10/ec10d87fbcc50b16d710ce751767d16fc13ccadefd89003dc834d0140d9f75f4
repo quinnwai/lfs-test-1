@@ -1,0 +1,1 @@
+{"did":"7cddee18-8398-5359-a917-8f0cbc342312","file_name":"3_test.bam","urls":["s3://cbds/7cddee18-8398-5359-a917-8f0cbc342312/ec10d87fbcc50b16d710ce751767d16fc13ccadefd89003dc834d0140d9f75f4"],"size":209715202,"authz":["/programs/cbds/projects/qw"],"hashes":{"sha256":"ec10d87fbcc50b16d710ce751767d16fc13ccadefd89003dc834d0140d9f75f4"}}
